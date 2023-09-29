@@ -1,13 +1,15 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
- <div>
+<div>
    <a href="https://github.com/MatheusB0rges">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusB0rges&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img align= "right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusB0rges&layout=compact&langs_count=6&theme=chartreuse-dark"/>
- </div> <br>
-    
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusB0rges&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+</div>
+
+<br>
+
 <div align="center">
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
  <img align="left" heigth="250" alt="code gif" src="code.gif">
   <h1>Melhores Tecnologias!</h1>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
