@@ -8,7 +8,8 @@
     
 <div align="center">
 <div style="display: inline_block"><br>
-  <img align="left" alt="coding gif" height="150" width="250" src="coding gif.gif">
+ <img align="left" heigth="250" alt="code gif" src="">
+  <h1>Melhores Tecnologias!</h1>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
